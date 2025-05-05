@@ -1,18 +1,22 @@
-# ollama-embeddings-demo
+# 📊 Geração de Embeddings com Ollama
 
-# Geração de Embeddings com Ollama
+Este projeto demonstra como instalar, configurar e utilizar o [Ollama](https://ollama.com) localmente para gerar vetores de embeddings a partir de um texto simples usando o modelo `nomic-embed-text`.
 
-Este projeto demonstra como gerar vetores de embeddings a partir de um texto simples utilizando o modelo `nomic-embed-text` via Ollama localmente.
+---
 
-## 🚀 Requisitos
+## ✅ Requisitos
 
-- Python 3.8+
-- Ollama instalado: https://ollama.com
-- Modelo baixado: `nomic-embed-text`
+- Python 3.8 ou superior
+- [Ollama instalado](https://ollama.com/download)
+- Modelo `nomic-embed-text` baixado
+- Biblioteca `requests` instalada (via pip)
 
-## 🛠 Instalação
+---
 
-Clone o repositório e instale a dependência:
+## ⚙️ Instalação do Ambiente
+
+1. **Clone este repositório:**
 
 ```bash
-pip install requests
+git clone https://github.com/seu-usuario/ollama-embeddings-demo.git
+cd ollama-embeddings-demo
