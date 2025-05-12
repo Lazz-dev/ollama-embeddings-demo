@@ -1,6 +1,6 @@
 # 📊 Geração de Embeddings com Ollama
 
-Este projeto demonstra como instalar, configurar e utilizar o [Ollama](https://ollama.com) localmente para gerar vetores de embeddings a partir de um texto simples usando o modelo `nomic-embed-text`.
+Este projeto demonstra como utilizar o [Ollama](https://ollama.com) localmente para gerar vetores de embeddings a partir de um texto simples usando o modelo `nomic-embed-text`.
 
 ---
 
