@@ -11,12 +11,4 @@ Este projeto demonstra como instalar, configurar e utilizar o [Ollama](https://o
 - Modelo `nomic-embed-text` baixado
 - Biblioteca `requests` instalada (via pip)
 
----
 
-## ⚙️ Instalação do Ambiente
-
-1. **Clone este repositório:**
-
-```bash
-git clone https://github.com/seu-usuario/ollama-embeddings-demo.git
-cd ollama-embeddings-demo
